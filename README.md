@@ -1,2 +1,3 @@
 # miniVideoPlayer
-Mini Video player using java
+Mini Video player using java.
+
